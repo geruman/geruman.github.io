@@ -1,8 +1,6 @@
-#!/bin/bash
-echo "Estamos haciendo cyberpunk 2020 online, martin es el hijo del cliente. un boludo, re denso\
+Estamos haciendo cyberpunk 2020 online, martin es el hijo del cliente. un boludo, re denso
 pero tiene algo de materia gris, si logramos ponernos de acuerdo el boceto de juego de rol online
 que le comentamos puede servir. Hasta ahora tenemos un 
 Los jugadores entran a la pagina, ponen el código de la campaña, y pueden subir su hoja de personaje.
 Y apretar botones para tirar dados. El master tiene que ver todos los jugadores conectados con los puntos
-de vida y estaría bueno que les pueda agregar \"tokens\" que el jugador se puede sacar o gastar."
-
+de vida y estaría bueno que les pueda agregar "tokens" que el jugador se puede sacar o gastar.
