@@ -35,8 +35,10 @@
   "homepage": "https://github.com/geruman/geruman.github.io#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-livereload": "^4.0.2",
     "handlebars": "^4.7.6",
     "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "gulp-webserver": "^0.9.1"
   }
 }
