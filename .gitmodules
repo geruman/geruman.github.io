@@ -1,0 +1,3 @@
+[submodule "juego_de_rol_gdb"]
+	path = juego_de_rol_gdb
+	url = ../juego_de_rol_gdb/
