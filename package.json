@@ -36,7 +36,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-livereload": "^4.0.2",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "http-server": "^0.12.3"
   }
 }
