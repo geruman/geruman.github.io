@@ -1,0 +1,8 @@
+{
+  "name": "CurrentGame",
+  "short_name": "Current",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Un juego multijugador donde el usuario esta conectado x tiempo y puede pelear contra una maseta cada dos minutos."
+}
